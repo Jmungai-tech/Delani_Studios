@@ -1,1 +1,29 @@
-.section1
+body{
+    padding: 0;
+    margin:0;
+    height:auto;
+    background:black;
+}
+.container{
+    margin:inherit;
+    width:inherit;
+}
+.first-text{
+    background: transparent;
+    text-align: center;
+    font-size-adjust: auto;
+    font-size: 60px;
+    font-weight: bold;
+    color:white;
+    text-emphasis:bold;
+}
+.section1{
+    background-image: url(IP3/assets/backgrounds/h_img.jpg) no-repeat;
+    background-position: center;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    float:none;
+    margin-top:100px;
+}
